@@ -1,5 +1,5 @@
 # Abdelrahman Mahmoud Suleiman (Bode)
-### Full-Stack Web Developer, Educator, and Founder @ [Code2Z](https://www.facebook.com/Code2Z/](https://www.facebook.com/profile.php?id=61575746642789)
+### Full-Stack Web Developer, Educator, and Founder @ [Code2Z](https://www.facebook.com/profile.php?id=61575746642789)
 
 أنا مطور ويب وشغوف بتمكين الآخرين من خلال التعليم. أؤمن بأن البرمجة أداة قوية لحل المشكلات وبناء المستقبل. مهمتي هي بناء حلول ويب عملية ومساعدة الجيل الجديد من المطورين على إتقان أدواتهم.
 
